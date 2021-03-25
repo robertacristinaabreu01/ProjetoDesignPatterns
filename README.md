@@ -19,3 +19,8 @@ Grupos Prioridades (descrição, nome, codigo)
 
 criação projeto web
 npx create-react-app <nomeProjeto>
+cd <nomeProjeto>
+npm start
+  
+usei a biblioteca Ant para CSS
+usei a biblioteca axios para requisição HTPP para API
