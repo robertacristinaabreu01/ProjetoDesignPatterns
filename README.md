@@ -17,3 +17,5 @@ Atributos
 Pessoas (nome, data de nascimento, tel, idade, cpf, email)
 Grupos Prioridades (descrição, nome, codigo)
 
+criação projeto web
+npx create-react-app <nomeProjeto>
