@@ -1,6 +1,6 @@
 # ProjetoDesignPatterns
 Projeto da matéria de Padrões de Projeto 2021.
-Tema: Como verificar em um cadastro de pessoas quais estão aptas para receber uma vacina, respeitando alguns critérios.
+Tema: Como verificar em um cadastro de pessoas se foram vacinadas ou não.
 
 Uso de Ferramentas:
 SpringBoot
@@ -24,3 +24,6 @@ npm start
   
 usei a biblioteca Ant para CSS
 usei a biblioteca axios para requisição HTPP para API
+
+index.html, usei template da Plataforma Ant
+criei na pasta src , duas pastas(PessoaDataService e Components)
