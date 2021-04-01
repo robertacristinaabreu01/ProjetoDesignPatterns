@@ -1,4 +1,40 @@
 # ProjetoDesignPatterns
+
+Back_End
+
+React e React Native
+
+Rest API's
+Representado por JSON
+Protocolo HTTP: Métodos usados--> GET(recupera atributo), POST (armazena), PUT(atualiza informações),DELETE(remove),  PATCH(atualiza só o que foi mudado)
+Endpoints(endereço : localhost:8080/pessoa)
+
+
+POSTMAN
+
+Construção: JDK e STS
+IDE:SpringTools4/SpringBoot
+
+Projecto: 
+Spring data JPA
+PostgreSQL Driver
+Spring Boot Dev tools
+Spring Web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Projeto da matéria de Padrões de Projeto 2021.
 Tema: Como verificar em um cadastro de pessoas se foram vacinadas ou não.
 
