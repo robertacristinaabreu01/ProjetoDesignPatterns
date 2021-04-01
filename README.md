@@ -1,57 +1,40 @@
 # ProjetoDesignPatterns
-
-Back_End
-
-React e React Native
-
-Rest API's
-Representado por JSON
-Protocolo HTTP: Métodos usados--> GET(recupera atributo), POST (armazena), PUT(atualiza informações),DELETE(remove),  PATCH(atualiza só o que foi mudado)
-Endpoints(endereço : localhost:8080/pessoa)
-
-
-POSTMAN
-
-Construção: JDK e STS
-IDE:SpringTools4/SpringBoot
-
-Projecto: 
-Spring data JPA
-PostgreSQL Driver
-Spring Boot Dev tools
-Spring Web
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Projeto da matéria de Padrões de Projeto 2021.
 Tema: Como verificar em um cadastro de pessoas se foram vacinadas ou não.
-
-Uso de Ferramentas:
-SpringBoot
-Maven
-JPA
-Ferramentas de dev
-Spring Web
-Postgres
-PgAdmin4
-Postman
-
 
 Atributos
 Pessoas (nome, data de nascimento, tel, idade, cpf, email)
 Grupos Prioridades (descrição, nome, codigo)
+
+***
+
+*Back_End*
+
+1. Linguagem: Java
+2. JDK e je: 11
+3. Maven
+4. JAR
+5. Banco POSTGRE
+6. pgAdmin4
+7. POSTMAN
+8. IDE:SpringTools4/SpringBoot
+9. Projeto STS usou as seguintes libs: 
+  1.Spring data JPA
+  2.PostgreSQL Driver
+  3.Spring Boot Dev tools
+  4.Spring Web
+
+*Características*
+Rest API's
+Uso de JSON 
+Protocolo HTTP: Métodos usados--> GET(recupera atributo), POST (armazena), PUT(atualiza informações),DELETE(remove),  PATCH(atualiza só o que foi mudado)
+Endpoints(endereço : localhost:8080/pessoa)
+
+
+***
+
+*Front-End*
+
+React e React Native
 
 criação projeto web
 npx create-react-app <nomeProjeto>
