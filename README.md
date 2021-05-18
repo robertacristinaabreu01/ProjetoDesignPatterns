@@ -63,6 +63,46 @@ criei na pasta src , duas pastas(PessoaDataService e Components)
   
   ![image](https://github.com/robertacristinaabreu01/ProjetoDesignPatterns/blob/main/GIT_DP_EVacccine/DP_2.png)
   
+   >>
+  ---
+  
+  ![image](https://github.com/robertacristinaabreu01/ProjetoDesignPatterns/blob/main/GIT_DP_EVacccine/DP_3.png)
+  
+    >>
+  ---
+  
+  ![image](https://github.com/robertacristinaabreu01/ProjetoDesignPatterns/blob/main/GIT_DP_EVacccine/dp_4.png)
+  
+    >>
+  ---
+  
+  ![image](https://github.com/robertacristinaabreu01/ProjetoDesignPatterns/blob/main/GIT_DP_EVacccine/DP_5.png)
+  
+    >>
+  ---
+  
+  
+  ![image](https://github.com/robertacristinaabreu01/ProjetoDesignPatterns/blob/main/GIT_DP_EVacccine/DP_6.png)
+  
+    >>
+  ---
+  
+  
+  ![image](https://github.com/robertacristinaabreu01/ProjetoDesignPatterns/blob/main/GIT_DP_EVacccine/DP_7.png)
+  
+    >>
+  ---
+  
+  ![image](https://github.com/robertacristinaabreu01/ProjetoDesignPatterns/blob/main/GIT_DP_EVacccine/DP_8.png)
+  
+  
+    >>
+  ---
+  
+  
+  ![image](https://github.com/robertacristinaabreu01/ProjetoDesignPatterns/blob/main/GIT_DP_EVacccine/DP_9.png)
+  
+  
   
   ´´´
   {
