@@ -359,6 +359,7 @@ code {
                   `
   >>
 ---
- [![ mp4] ](https://www.youtube.com/watch?v=<https://www.youtube.com/watch?v=t-x5JZ-0d5k)
+
                                                                              
-![resumindo](/ProjetoDesignPatterns/blob/main/video_evaccine.mp4)
+                                                                             
+[![asciicast](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=<https://www.youtube.com/watch?v=t-x5JZ-0d5k)
