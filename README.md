@@ -360,3 +360,5 @@ code {
   >>
 ---
  [![ mp4] ](https://www.youtube.com/watch?v=<https://www.youtube.com/watch?v=t-x5JZ-0d5k)
+                                                                             
+![resumindo](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
