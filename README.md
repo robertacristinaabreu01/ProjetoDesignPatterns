@@ -354,12 +354,9 @@ code {
 }
 
   }                
- ``
+```
                   
-                  `
-  >>
----
 
-                                                                             
+  #### Assista e confirme o funcionando ####                                                                           
                                                                              
 [![Watch the video](https://github.com/robertacristinaabreu01/ProjetoDesignPatterns/blob/main/GIT_DP_EVacccine/DP_1.png)](https://www.youtube.com/watch?v=t-x5JZ-0d5k)
