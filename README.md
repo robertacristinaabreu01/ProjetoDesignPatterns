@@ -362,4 +362,4 @@ code {
 
                                                                              
                                                                              
-[![asciicast](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=<https://www.youtube.com/watch?v=t-x5JZ-0d5k)
+[![asciicast](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=t-x5JZ-0d5k)
